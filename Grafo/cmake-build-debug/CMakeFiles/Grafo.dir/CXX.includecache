@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Faculdade/Programacao Orientada a Objeto/Grafo/main.cpp
+iostream
+-
+list
+-
+vector
+-
+algorithm
+-
+

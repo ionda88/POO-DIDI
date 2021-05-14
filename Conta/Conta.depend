@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620785290 source:c:\faculdade\programacao orientada a objeto\conta\main.cpp
+	<iostream>
+	<string>
+
